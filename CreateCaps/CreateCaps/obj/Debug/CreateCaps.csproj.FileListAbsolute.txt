@@ -1,0 +1,10 @@
+C:\Users\Niloş\source\repos\CreateCaps\CreateCaps\bin\Debug\CreateCaps.exe.config
+C:\Users\Niloş\source\repos\CreateCaps\CreateCaps\bin\Debug\CreateCaps.exe
+C:\Users\Niloş\source\repos\CreateCaps\CreateCaps\bin\Debug\CreateCaps.pdb
+C:\Users\Niloş\source\repos\CreateCaps\CreateCaps\obj\Debug\CreateCaps.csprojAssemblyReference.cache
+C:\Users\Niloş\source\repos\CreateCaps\CreateCaps\obj\Debug\CreateCaps.Properties.Resources.resources
+C:\Users\Niloş\source\repos\CreateCaps\CreateCaps\obj\Debug\CreateCaps.csproj.GenerateResource.cache
+C:\Users\Niloş\source\repos\CreateCaps\CreateCaps\obj\Debug\CreateCaps.csproj.CoreCompileInputs.cache
+C:\Users\Niloş\source\repos\CreateCaps\CreateCaps\obj\Debug\CreateCaps.exe
+C:\Users\Niloş\source\repos\CreateCaps\CreateCaps\obj\Debug\CreateCaps.pdb
+C:\Users\Niloş\source\repos\CreateCaps\CreateCaps\obj\Debug\CreateCaps.Form1.resources
